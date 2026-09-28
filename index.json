@@ -21,6 +21,16 @@
       "download": "https://github.com/SIRsparky989/pokerecomp-wild-encounters/releases/download/v0.4.0/Wild_Encounters_0.4.0_TEST.zip",
       "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-wild-encounters/main/icon.png",
       "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-wild-encounters/main/thumbnail.webp"
+    },
+    {
+      "id": "legendary_beasts",
+      "name": "Legendary Beasts",
+      "version": "0.1.1",
+      "games": ["gold", "silver", "crystal"],
+      "description": "Keeps the Legendary Beasts available after an uncaught encounter and lets you adjust their encounter chance.",
+      "download": "https://github.com/SIRsparky989/pokerecomp-legendary-beasts/releases/download/v0.1.1/Legendary_Beasts_0.1.1_NUMBERS_ONLY.zip",
+      "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-beasts/main/icon.png",
+      "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-beasts/main/thumbnail.webp"
     }
   ]
 }
