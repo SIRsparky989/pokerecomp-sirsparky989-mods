@@ -11,6 +11,16 @@
       "download": "https://github.com/SIRsparky989/pokerecomp-legendary-roamers/releases/download/v0.1.16-alpha/Legendary_Roamers_0.1.16_MULTI_VISIBLE_TEST_v65.zip",
       "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-roamers/main/icon.png",
       "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-roamers/main/thumbnail.webp"
+    },
+    {
+      "id": "wild_encounters",
+      "name": "Wild Encounters",
+      "version": "0.4.0",
+      "games": ["red", "blue", "yellow", "gold", "silver", "crystal"],
+      "description": "Choose which Pokémon appears in normal wild encounters while preserving the original encounter levels and encounter rates.",
+      "download": "https://github.com/SIRsparky989/pokerecomp-wild-encounters/releases/download/v0.4.0/Wild_Encounters_0.4.0_TEST.zip",
+      "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-wild-encounters/main/icon.png",
+      "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-wild-encounters/main/thumbnail.webp"
     }
   ]
 }
