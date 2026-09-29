@@ -5,10 +5,10 @@
     {
       "id": "legendary_roamers",
       "name": "Legendary Roamers",
-      "version": "0.1.17",
+      "version": "0.1.18",
       "games": ["gold", "silver", "crystal"],
       "description": "Gives legendary Pokémon a second chance by turning uncaught legendary encounters into roaming Pokémon. Alpha / work in progress.",
-      "download": "https://github.com/SIRsparky989/pokerecomp-legendary-roamers/releases/download/v0.1.17/Legendary_Roamers_0.1.17.zip",
+      "download": "https://github.com/SIRsparky989/pokerecomp-legendary-roamers/releases/download/v0.1.18/Legendary_Roamers_0.1.18.zip",
       "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-roamers/main/icon.png",
       "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-roamers/main/thumbnail.webp"
     },
