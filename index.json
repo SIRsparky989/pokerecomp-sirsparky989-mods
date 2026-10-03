@@ -31,6 +31,16 @@
       "download": "https://github.com/SIRsparky989/pokerecomp-legendary-beasts/releases/download/v0.1.1/Legendary_Beasts_0.1.1_NUMBERS_ONLY.zip",
       "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-beasts/main/icon.png",
       "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-legendary-beasts/main/thumbnail.webp"
+    },
+    {
+      "id": "complete_starter_pack",
+      "name": "Complete Starter Pack",
+      "version": "0.2.40",
+      "games": ["crystal"],
+      "description": "Adds story-driven events to obtain all Gen 1 and Gen 2 starter Pokémon in Pokémon Crystal.",
+      "download": "https://github.com/SIRsparky989/pokerecomp-complete-starter-pack/releases/download/v0.2.40/complete-starter-pack-v0.2.40.zip",
+      "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-complete-starter-pack/main/icon.png",
+      "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-complete-starter-pack/main/thumbnail.webp"
     }
   ]
 }
