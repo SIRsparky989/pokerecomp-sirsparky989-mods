@@ -34,11 +34,11 @@
     },
     {
       "id": "complete_starter_pack",
-      "name": "Complete Starter Pack",
-      "version": "0.2.40",
+      "name": "Starter Pack",
+      "version": "0.2.45",
       "games": ["crystal"],
       "description": "Adds story-driven events to obtain all Gen 1 and Gen 2 starter Pokémon in Pokémon Crystal.",
-      "download": "https://github.com/SIRsparky989/pokerecomp-complete-starter-pack/releases/download/v0.2.40/complete-starter-pack-v0.2.40.zip",
+      "download": "https://github.com/SIRsparky989/pokerecomp-complete-starter-pack/releases/download/v0.2.45/complete-starter-pack-v0.2.45.zip",
       "icon": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-complete-starter-pack/main/icon.png",
       "thumbnail": "https://raw.githubusercontent.com/SIRsparky989/pokerecomp-complete-starter-pack/main/thumbnail.webp"
     }
